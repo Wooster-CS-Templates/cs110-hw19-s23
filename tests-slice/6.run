@@ -1,0 +1,1 @@
+cat tests-slice/medium.txt | ./slice 5000 5005

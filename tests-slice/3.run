@@ -1,0 +1,1 @@
+cat tests-slice/small.txt | ./slice 2 9

@@ -1,0 +1,1 @@
+cat tests-slice/tiny.txt | ./slice 1 15 > /dev/null
